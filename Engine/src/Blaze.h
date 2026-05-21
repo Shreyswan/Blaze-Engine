@@ -2,8 +2,8 @@
 
 // For use by Blaze applications
 
-#include <stdio.h>
 #include "Blaze/Application.h"
+#include "Blaze/Log.h"
 
 // ------------ ENTRY POINT ------------
 #include "Blaze/EntryPoint.h"
